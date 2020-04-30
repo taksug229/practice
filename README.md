@@ -1,8 +1,10 @@
 # practice
 Run
+
 `python app.py`
 
 Save Title Data
+
 `python giburi.py`
 
 You can see titles data
